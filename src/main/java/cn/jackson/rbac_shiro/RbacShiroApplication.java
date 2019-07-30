@@ -8,6 +8,7 @@ public class RbacShiroApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RbacShiroApplication.class, args);
+		System.out.println("jackson");
     }
 
 }
